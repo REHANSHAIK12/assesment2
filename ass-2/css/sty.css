@@ -1,0 +1,30 @@
+#p1{
+    font-weight: bold;
+    font-size: 60px;
+    color: blue;
+    padding-left: 30px;
+}
+#p2{
+    font-size: 35px;
+    padding-left: 30px;
+}
+body{
+    background-image: url("../assests/arvrbg.png");
+}
+#con{
+    background-color: white;
+    margin-top: 1400px;
+    border-top-right-radius:25px ;
+    border-top-left-radius:25px ;
+    padding-top:3px ;
+    padding-bottom:10px ;
+   max-width: none;
+}
+#but1{
+    font-size: 50px;
+    margin-left: 30px; 
+}
+#but2{
+    font-size: 50px;
+    margin-left: 30px;
+}
